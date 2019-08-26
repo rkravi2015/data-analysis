@@ -3,10 +3,10 @@ from tweepy import API, OAuthHandler
 
 from data_analysis.database import session, Tweet
 
-consumer_key = 'mpyQQqLooqGfVaFnVT2vWrNwn'
-consumer_secret = 'CK1bmR7tZinYuaxwCcYGuDpsfAVf6cAywLESv0BkCbYsJLk9OY'
-access_token = '3702780913-tS80TesD27dYUaunh87TcaYRewcHeSHjlYudqHJ'
-access_token_secret = 'O5FB5S4Bm1NnfEVJCN2ttCrUJBhgCs8Ygw31FgeOSh0vz'
+consumer_key = ''
+consumer_secret = ''
+access_token = ''
+access_token_secret = ''
 
 auth = OAuthHandler(consumer_key,
                     consumer_secret)
