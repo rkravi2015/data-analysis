@@ -39,7 +39,7 @@ prometheus-client==0.6.0
 prompt-toolkit==2.0.9
 pycodestyle==2.5.0
 pyflakes==2.1.1
-pygments==2.4.0
+pygments==2.7.4
 PyQt5==5.12.2
 PyQt5-sip==4.19.17
 pyrsistent==0.15.2
